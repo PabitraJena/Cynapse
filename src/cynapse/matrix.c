@@ -1,4 +1,4 @@
-#include "matrix.h"
+#include "cynapse/matrix.h"
 
 #include <stdio.h>
 #include <stdlib.h>
